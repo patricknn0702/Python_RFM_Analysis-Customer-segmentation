@@ -1,3 +1,17 @@
+# Project Title: Python_RFM_Analysis
+
+📊 **Objective**:  
+Utilize the RFM model to segment customers and propose appropriate marketing campaigns.
+
+🛠 **Tools**: Python, Pandas, Jupyter Notebook
+
+📁 **Techniques**: RFM Scoring, Customer Segmentation, Marketing Strategy
+
+🚀 **Impact**:  
+Enabled more personalized retention strategies by identifying high-value and at-risk segments.
+
+---
+
 # Python_RFM_Analysis: Customer segmentation
 
 Please see the coding file attached or reach this link  
