@@ -1,4 +1,4 @@
-# Project Title: Python_RFM_Analysis
+# Project Title: Python_RFM_Customer Segmentation Analysis
 
 📊 **Objective**:  
 Utilize the RFM model to segment customers and propose appropriate marketing campaigns.
